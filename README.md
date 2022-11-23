@@ -1,7 +1,6 @@
 <font face="得意黑" size=4>
 
 ## Hello！
-
 - 您好！我是 HuaJiKing （HuaJiKing402 或者 HuaJi_King），你也可以叫我滑稽王。
 
   - 作为一个 微软文档受害者 + 中学生 ，梦想成为一位 Older 或者是独立游戏开发者。
@@ -26,7 +25,6 @@
 ## 信息面板
 <code>
   <img src="https://img.shields.io/static/v1?label=OS&message=Win10&style=for-the-badge&logo=Windows&color=blue" />
-
   <img src="https://img.shields.io/static/v1?label=Editor&message=VS&style=for-the-badge&logo=Visual%20Studio&color=purple" />
 </code>
 
@@ -36,4 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=huajiking402&show_icons=true&theme=dark&locale=cn#gh-dark-mode-only" />
 </code>
 
-</html>
+</font>
