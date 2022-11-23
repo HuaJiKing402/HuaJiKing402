@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
-  <head>
     <meta charset="UTF-8">
-    <title>@font-face属性</title>
     <style>
       body { 
         font-size : 16px;
         font-family: 得意黑; 
       }
     </style>
-  </head>
 
 ## Hello！
 
@@ -37,11 +34,14 @@
 ## 信息面板
 <code>
   <img src="https://img.shields.io/static/v1?label=OS&message=Win10&style=for-the-badge&logo=Windows&color=blue" />
+
   <img src="https://img.shields.io/static/v1?label=Editor&message=VS&style=for-the-badge&logo=Visual%20Studio&color=purple" />
 </code>
 
 <code>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huajiking402&layout=compact&langs_count=11&theme=dark&show_owner=true&locale=cn">
-    <img src="https://github-readme-stats.vercel.app/api?username=huajiking402&show_icons=true&theme=dark&locale=cn#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huajiking402&layout=compact&langs_count=11&theme=dark&show_owner=true&locale=cn" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=huajiking402&show_icons=true&theme=dark&locale=cn#gh-dark-mode-only" />
 </code>
 
+</html>
