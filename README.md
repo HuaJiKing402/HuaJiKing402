@@ -1,4 +1,3 @@
-<font face="得意黑" size=4>
 
 ## Hello！
 - 您好！我是 HuaJiKing （HuaJiKing402 或者 HuaJi_King），你也可以叫我滑稽王。
@@ -23,15 +22,15 @@
 </code>
 
 ## 信息面板
+###
 <code>
   <img src="https://img.shields.io/static/v1?label=OS&message=Win10&style=for-the-badge&logo=Windows&color=blue" />
   <img src="https://img.shields.io/static/v1?label=Editor&message=VS&style=for-the-badge&logo=Visual%20Studio&color=purple" />
-</code>
+ </code>
 
+###
 <code>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huajiking402&layout=compact&langs_count=11&theme=dark&show_owner=true&locale=cn" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=huajiking402&show_icons=true&theme=dark&locale=cn#gh-dark-mode-only" />
 </code>
-
-</font>
