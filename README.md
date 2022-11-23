@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-cn">
-    <meta charset="UTF-8">
-    <style>
-      body { 
-        font-size : 16px;
-        font-family: 得意黑; 
-      }
-    </style>
+<font face="得意黑" size=4>
 
 ## Hello！
 
