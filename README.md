@@ -18,15 +18,17 @@
 
 ## 仓库
 <code>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bian-studio&repo=biancore&theme=dark&show_owner=true">
+  <a href="https://github.com/Bian-Studio/BianCore" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bian-studio&repo=biancore&theme=dark&show_owner=true"> 
+  </a>
 </code>
 
 ## 信息面板
 ###
 <code>
-  <img src="https://img.shields.io/static/v1?label=OS&message=Win10&style=for-the-badge&logo=Windows&color=blue" />
-  <img src="https://img.shields.io/static/v1?label=Editor&message=VS&style=for-the-badge&logo=Visual%20Studio&color=purple" />
- </code>
+    <img src="https://img.shields.io/static/v1?label=OS&message=Win10&style=for-the-badge&logo=Windows&color=blue" />
+    <img src="https://img.shields.io/static/v1?label=Editor&message=VS&style=for-the-badge&logo=Visual%20Studio&color=purple" />
+</code>
 
 ###
 <code>
