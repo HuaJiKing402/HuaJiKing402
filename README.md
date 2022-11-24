@@ -1,9 +1,4 @@
 <code>
-<img src="https://img.shields.io/static/v1?label=OS&message=Win10&style=for-the-badge&logo=Windows&color=blue" />
-<img src="https://img.shields.io/static/v1?label=Editor&message=VS&style=for-the-badge&logo=Visual%20Studio&color=purple" /> 
-<code>
-
-<code>
 <img src="https://github-readme-stats.vercel.app/api?username=huajiking402&show_icons=true&theme=dark&locale=cn#gh-dark-mode-only" />
 </code>
 
@@ -13,7 +8,6 @@
 - 目前正在自学 C#（进阶Ⅲ）、C++（入门Ⅰ）、Java（入门Ⅱ）、Node（进阶Ⅰ）、Go、Rust。
 - 喜欢的游戏有 Minecraft、CSGO、戴森球计划、地平线系列、F1系列（虽然没买）。
 - 那么请随意逛逛吧！希望你能喜欢我写的程序，不要忘记留下星星哦！
-
 ## 联系方式
 - QQ: 3550514081
 - WeChat: HuaJiKing
