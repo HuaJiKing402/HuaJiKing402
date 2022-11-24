@@ -16,13 +16,6 @@
 - WeChat: HuaJiKing
 - Email: huaji_king@163.com or 3550514081@qq.com
 
-## 仓库
-<code>
-  <a href="https://github.com/Bian-Studio/BianCore" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bian-studio&repo=biancore&theme=dark&show_owner=true"> 
-  </a>
-</code>
-
 ## 信息面板
 ###
 <code>
