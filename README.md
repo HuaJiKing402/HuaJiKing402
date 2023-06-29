@@ -11,4 +11,5 @@
 ## 联系方式
 - QQ: 3550514081
 - WeChat: HuaJiKing
-- Email: huaji_king@163.com or 3550514081@qq.com
+- Twitter: HuaJiKing402
+- Email: huaji_king@163.com / 3550514081@qq.com / huajiking402@outlook.com / huajiking402@gmail.com
