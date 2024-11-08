@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=huajiking402&show_icons=true&theme=dark&locale=cn#gh-dark-mode-only" />
-
-- 您好！我是 HuaJiKing402 （HuaJiKing 或者 HuaJi_King）你也可以叫我滑稽王
+- I am Li Zitong, a student in B.T. No.1 Middle School. I want to study in Github and try to make some contributions to the community.
+- 您好！我是 李子桐 （HuaJiKing 或者 HuaJi_King）你也可以叫我滑稽王
 - 作为一个 微软文档受害者 + 中学生 梦想成为一位 Older 或者是独立游戏开发者
 - 我非常热衷使用 C# 语言（虽然微软害死人），正在用它编写 通用开发SDK TheGenesis
   - [ ] C/C++
